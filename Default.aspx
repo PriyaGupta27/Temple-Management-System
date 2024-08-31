@@ -211,7 +211,7 @@
      <table>
      <tr><td><iframe width="700" height="380" src="https://www.youtube.com/embed/_ZaAsphu7S8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="margin-left: 100px"></iframe></td>
      <td>  
-     <div align="center" class="col-md-12" style="width: 500px; height: 380px; margin-left: 350px;">
+     <div align="center" class="col-md-12" style="width: 500px; height: 380px; margin-left: 250px;">
             <div class="heading-border"></div><br /><br />
             <p class="wow fadeInUp justify-content-around" data-wow-delay="0.4s" 
                     style="color: #000000; font-size: 20px;">बिहार की राजधानी पटना में स्थित पटन देवी मंदिर शक्ति उपासना का प्रमुख केंद्र माना जाता है. देवी भागवत और तंत्र चूड़ामणि के अनुसार, सती की दाहिनी जांघ यहीं गिरी थी| नवरात्र के दौरान यहां काफी भीड़ उमड़ती है| सती के 51 शक्तिपीठों में प्रमुख इस उपासना स्थल में माता की तीन स्वरूपों वाली प्रतिमाएं विराजित हैं|<br /> पटन देवी भी दो हैं- छोटी पटन देवी और बड़ी पटन देवी दोनों के अलग-अलग मंदिर हैं|
